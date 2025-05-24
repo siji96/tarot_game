@@ -16,5 +16,14 @@
       "upright": "Manifestation, resourcefulness, power.",
       "reversed": "Manipulation, poor planning, untapped talents."
     }
+  },
+   {
+    "id": 2,
+    "name": "The Fox",
+    "image": "/images/fox.jpg",
+    "description": {
+      "upright": "Fox.",
+      "reversed": "Milionare."
+    }
   }
 ]
