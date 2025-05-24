@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "image": "/images/the_fool.jpg",
+    "description": {
+      "upright": "A new beginning, adventure, spontaneity.",
+      "reversed": "Recklessness, na\u00efvet\u00e9, poor judgment."
+    }
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "image": "/images/the_magician.jpg",
+    "description": {
+      "upright": "Manifestation, resourcefulness, power.",
+      "reversed": "Manipulation, poor planning, untapped talents."
+    }
+  }
+]
