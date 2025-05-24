@@ -26,7 +26,7 @@ export default function TarotGame() {
     setCards(newCards);
     setIsReversedFlags(reversedFlags);
 
-    await fetch("https://your-backend.up.railway.app/api/save-draw", {
+    await fetch("https://tarotgame-production.up.railway.app", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
